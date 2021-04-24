@@ -1,6 +1,6 @@
 # can-sensor-board
 
-![Boardt](board.png)
+<img src="board.png" width="350">
 
 # Pupose
 To attach any I2C sensor to a CAN bus.
