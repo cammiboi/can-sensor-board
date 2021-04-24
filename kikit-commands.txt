@@ -1,0 +1,5 @@
+kikit panelize grid --tolerance 10 --space 2 --gridsize 2 2 --tabwidth 5 --tabheight 5 --htabs 0 --vtabs 1 --mousebites 0.5 0.75 0 --radius 1 --panelsize 30 30 cheap-accelerometer.kicad_pcb ./panel.kicad_pcb
+
+kikit fab jlcpcb --assembly --schematic can-sensor-board.sch can-sensor-board.kicad_pcb fabrication-files --field JLC --ignore J1,J2,P1,TP_3V1,TP_GND1,H1,H2,H3,H4,J5
+
+docker run -it -w /kikit -v $(pwd):/kikit yaqwsx/kikit /bin/bash

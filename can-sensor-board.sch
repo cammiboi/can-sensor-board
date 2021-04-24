@@ -40,6 +40,7 @@ F 1 "105314-1104" H 1050 1300 50  0001 C CNN
 F 2 "footprints:Molex_Nano-Fit_105314-xx04_2x02_P2.50mm_Horizontal" H 1525 2075 50  0001 C CNN
 F 3 "" V 1475 1400 50  0001 C CNN
 F 4 "Molex" H 1500 2175 50  0001 C CNN "Manufacturer"
+F 5 "Yes" H 1000 1450 50  0001 C CNN "JLCPCB_IGNORE"
 	1    1000 1450
 	1    0    0    -1  
 $EndComp
@@ -52,6 +53,7 @@ F 1 "105314-1104" H 1225 2299 50  0001 C CNN
 F 2 "footprints:Molex_Nano-Fit_105314-xx04_2x02_P2.50mm_Horizontal" H 1525 2675 50  0001 C CNN
 F 3 "" V 1475 2000 50  0001 C CNN
 F 4 "Molex" H 1500 2775 50  0001 C CNN "Manufacturer"
+F 5 "Yes" H 1000 2050 50  0001 C CNN "JLCPCB_IGNORE"
 	1    1000 2050
 	1    0    0    -1  
 $EndComp
@@ -478,6 +480,7 @@ F 0 "P1" H 4950 5990 50  0000 C CNN
 F 1 "TC2030-IDC-NL" H 4950 5899 50  0000 C CNN
 F 2 "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical" H 4900 5550 50  0001 C CNN
 F 3 "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf" H 4900 5550 50  0001 C CNN
+F 4 "Yes" H 4900 5550 50  0001 C CNN "JLCPCB_IGNORE"
 	1    4900 5550
 	1    0    0    -1  
 $EndComp
@@ -1170,6 +1173,7 @@ F 0 "TP_3V1" V 5800 1650 50  0000 L CNN
 F 1 "TestPoint_Small" H 5800 1630 50  0001 C CNN
 F 2 "footprints:TestPoint_Pad_D1.00mm" H 6000 1550 50  0001 C CNN
 F 3 "~" H 6000 1550 50  0001 C CNN
+F 4 "Yes" H 5800 1550 50  0001 C CNN "JLCPCB_IGNORE"
 	1    5800 1550
 	0    1    1    0   
 $EndComp
@@ -1181,6 +1185,7 @@ F 0 "TP_GND1" V 5800 1750 50  0000 L CNN
 F 1 "TestPoint_Small" H 5800 1730 50  0001 C CNN
 F 2 "footprints:TestPoint_Pad_D1.00mm" H 6000 1650 50  0001 C CNN
 F 3 "~" H 6000 1650 50  0001 C CNN
+F 4 "Yes" H 5800 1650 50  0001 C CNN "JLCPCB_IGNORE"
 	1    5800 1650
 	0    1    1    0   
 $EndComp
@@ -1317,6 +1322,7 @@ F 0 "H1" H 3350 6696 50  0000 L CNN
 F 1 "Mounting Hole" H 3350 6605 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3" H 3250 6650 50  0001 C CNN
 F 3 "~" H 3250 6650 50  0001 C CNN
+F 4 "Yes" H 3250 6650 50  0001 C CNN "JLCPCB_IGNORE"
 	1    3250 6650
 	1    0    0    -1  
 $EndComp
@@ -1328,6 +1334,7 @@ F 0 "H2" H 3350 6900 50  0000 L CNN
 F 1 "Mounting Hole" H 3350 6855 50  0001 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3" H 3250 6900 50  0001 C CNN
 F 3 "~" H 3250 6900 50  0001 C CNN
+F 4 "Yes" H 3250 6900 50  0001 C CNN "JLCPCB_IGNORE"
 	1    3250 6900
 	1    0    0    -1  
 $EndComp
@@ -1339,6 +1346,7 @@ F 0 "H3" H 4300 6650 50  0000 L CNN
 F 1 "Mounting Hole" H 4300 6605 50  0001 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3" H 4200 6650 50  0001 C CNN
 F 3 "~" H 4200 6650 50  0001 C CNN
+F 4 "Yes" H 4200 6650 50  0001 C CNN "JLCPCB_IGNORE"
 	1    4200 6650
 	1    0    0    -1  
 $EndComp
@@ -1350,6 +1358,7 @@ F 0 "H4" H 4300 6900 50  0000 L CNN
 F 1 "Mounting Hole" H 4300 6855 50  0001 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3" H 4200 6900 50  0001 C CNN
 F 3 "~" H 4200 6900 50  0001 C CNN
+F 4 "Yes" H 4200 6900 50  0001 C CNN "JLCPCB_IGNORE"
 	1    4200 6900
 	1    0    0    -1  
 $EndComp
@@ -1439,6 +1448,7 @@ F 0 "J5" H 5850 4300 50  0000 C CNN
 F 1 "Conn_02x05_Odd_Even" H 6350 4350 50  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical" H 5800 3950 50  0001 C CNN
 F 3 "~" H 5800 3950 50  0001 C CNN
+F 4 "Yes" H 5800 3950 50  0001 C CNN "JLCPCB_IGNORE"
 	1    5800 3950
 	1    0    0    -1  
 $EndComp
