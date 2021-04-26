@@ -29,7 +29,7 @@ Wire connector: Molex 1053081204
 
 ### I2C Connectors (J3 and J4)
 
-Wire connector: Molex 1053081204
+Works with Sensor boards that have Adafruit STEMMA QT or Sparkfun QWIIC connector.
 
 | Pin Number | Function |
 |--|--|
