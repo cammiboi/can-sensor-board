@@ -27,13 +27,13 @@ Wire connector: Molex 1053081204
 |3 | VIN |
 |4 | GND|
 
-### I2C Connectors
+### I2C Connectors (J3 and J4)
 
 Wire connector: Molex 1053081204
 
 | Pin Number | Function |
 |--|--|
-|1| CAN H |
-|2 | CAN L |
-|3 | VIN |
-|4 | GND|
+|1| GND |
+|2 | 3V3 |
+|3 | SDA |
+|4 | SCL|
